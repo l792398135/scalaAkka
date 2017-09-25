@@ -1,0 +1,6 @@
+/.git/
+/.idea/
+/target/
+/dependency-reduced-pom.xml
+/MyRPC.iml
+/my-rpc.iml
